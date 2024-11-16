@@ -41,13 +41,13 @@ pip install pandas numpy matplotlib seaborn
 ### Cómo ejecutar el proyecto
 
 #### 1. Análisis de Tiroteos Fatales en EE.UU..pbix
-   Este archivo es un informe interactivo creado en Power BI, que ofrece visualizaciones detalladas sobre los tiroteos fatales. El informe incluye gráficos, mapas y tablas para facilitar el análisis de los incidentes a través del tiempo y por diversas variables, como la raza de las víctimas, la ubicación y las circunstancias del tiroteo.
+   - Este archivo es un informe interactivo creado en Power BI, que ofrece visualizaciones detalladas sobre los tiroteos fatales. El informe incluye gráficos, mapas y tablas para facilitar el análisis de los incidentes a través del tiempo y por diversas variables, como la raza de las víctimas, la ubicación y las circunstancias del tiroteo.
 
 #### 2. EII4220_Proyecto.ipynb
 
-   Este archivo es un cuaderno de Jupyter (usado en Google Colab) que contiene el código Python utilizado para el análisis de los datos. El código abarca la limpieza de los datos, análisis estadístico y generación de visualizaciones utilizando librerías como pandas, matplotlib y seaborn.
+   - Este archivo es un cuaderno de Jupyter (usado en Google Colab) que contiene el código Python utilizado para el análisis de los datos. El código abarca la limpieza de los datos, análisis estadístico y generación de visualizaciones utilizando librerías como pandas, matplotlib y seaborn.
    Se recomienda ejecutar este cuaderno directamente en Google Colab para facilitar el acceso y evitar la configuración de un entorno local.
 
 #### 3. Explorar los datos
-- Los archivos `.xlsx` pueden ser abiertos directamente en Excel o cualquier otro software compatible con este formato para explorar los datos de tiroteos fatales, las agencias policiales y la información de las ciudades.
+   - Los archivos `.xlsx` pueden ser abiertos directamente en Excel o cualquier otro software compatible con este formato para explorar los datos de tiroteos fatales, las agencias policiales y la información de las ciudades.
 ---
