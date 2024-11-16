@@ -33,7 +33,7 @@ Para ejecutar el análisis y el código, asegúrate de tener los siguientes requ
   
 Instalar las dependencias:
 ```bash
-pip install pandas numpy matplotlib seaborn geopandas
+pip install pandas numpy matplotlib seaborn
 ```
 
 - **Power BI Desktop** (para abrir y explorar el archivo `.pbix`).
