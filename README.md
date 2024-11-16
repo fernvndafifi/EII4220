@@ -49,5 +49,5 @@ pip install pandas numpy matplotlib seaborn
    Se recomienda ejecutar este cuaderno directamente en Google Colab para facilitar el acceso y evitar la configuración de un entorno local.
 
 #### 3. Explorar los datos
-   - Los archivos `.xlsx` pueden ser abiertos directamente en Excel o cualquier otro software compatible con este formato para explorar los datos de tiroteos fatales, las agencias policiales y la información de las ciudades.
+   - Los archivos `.xlsx` pueden ser abiertos directamente en Excel o cualquier otro software compatible con este formato para explorar los datos de tiroteos fatales, las agencias policiales y la información de los condados y estados.
 ---
