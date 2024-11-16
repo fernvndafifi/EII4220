@@ -38,16 +38,24 @@ pip install pandas numpy matplotlib seaborn
 
 - **Power BI Desktop** (para abrir y explorar el archivo `.pbix`).
 
-### Cómo ejecutar el proyecto
+### Instrucciones de Uso
+1. Abrir el Informe Interactivo en Power BI
+Para explorar las visualizaciones detalladas de los tiroteos fatales, abre el archivo Análisis de Tiroteos Fatales en EE.UU..pbix en Power BI Desktop. El informe interactivo incluye gráficos, mapas y tablas para facilitar el análisis de las tendencias a través del tiempo y por diferentes variables.
 
-#### 1. Análisis de Tiroteos Fatales en EE.UU..pbix
-   - Este archivo es un informe interactivo creado en Power BI, que ofrece visualizaciones detalladas sobre los tiroteos fatales. El informe incluye gráficos, mapas y tablas para facilitar el análisis de los incidentes a través del tiempo y por diversas variables, como la raza de las víctimas, la ubicación y las circunstancias del tiroteo.
+2. Ejecutar el Código en Jupyter Notebook
+Abre el archivo EII4220_Proyecto.ipynb en un entorno de Jupyter (como Google Colab) para ejecutar el análisis en Python. El cuaderno contiene los pasos necesarios para:
 
-#### 2. EII4220_Proyecto.ipynb
+    Cargar los datos,
+    Limpiar los datos,
+    Realizar análisis estadísticos, y
+    Generar visualizaciones.
 
-   - Este archivo es un cuaderno de Jupyter (usado en Google Colab) que contiene el código Python utilizado para el análisis de los datos. El código abarca la limpieza de los datos, análisis estadístico y generación de visualizaciones utilizando librerías como pandas, matplotlib y seaborn.
-   Se recomienda ejecutar este cuaderno directamente en Google Colab para facilitar el acceso y evitar la configuración de un entorno local.
+Para usar Google Colab, simplemente sube el archivo al entorno y ejecuta las celdas correspondientes.
 
-#### 3. Explorar los datos
-   - Los archivos `.xlsx` pueden ser abiertos directamente en Excel o cualquier otro software compatible con este formato para explorar los datos de tiroteos fatales, las agencias policiales y la información de los condados y estados.
----
+3. Explorar los Datos en Excel
+Los archivos .xlsx se pueden abrir con Microsoft Excel o cualquier otra aplicación compatible. Estos archivos contienen información relevante sobre las ciudades de EE.UU., las agencias de policía y los detalles de los incidentes de tiroteos fatales.
+
+### Clonación del Repositorio
+Si deseas obtener una copia local del repositorio, puedes clonarlo usando el siguiente comando en tu terminal:
+
+git clone https://github.com/tu-usuario/tu-repositorio.git
