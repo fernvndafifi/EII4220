@@ -50,9 +50,9 @@ Abre el archivo EII4220_Proyecto.ipynb en un entorno de Jupyter (como Google Col
     - Realizar análisis estadísticos, y
     - Generar visualizaciones.
 
-Para usar Google Colab, simplemente sube el archivo al entorno y ejecuta las celdas correspondientes.
+3. Para usar Google Colab, simplemente sube el archivo al entorno y ejecuta las celdas correspondientes.
 
-3. Explorar los Datos en Excel
+4. Explorar los Datos en Excel
 Los archivos .xlsx se pueden abrir con Microsoft Excel o cualquier otra aplicación compatible. Estos archivos contienen información relevante sobre las ciudades de EE.UU., las agencias de policía y los detalles de los incidentes de tiroteos fatales.
 
 ### Clonación del Repositorio
