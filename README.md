@@ -45,10 +45,10 @@ Para explorar las visualizaciones detalladas de los tiroteos fatales, abre el ar
 2. Ejecutar el Código en Jupyter Notebook
 Abre el archivo EII4220_Proyecto.ipynb en un entorno de Jupyter (como Google Colab) para ejecutar el análisis en Python. El cuaderno contiene los pasos necesarios para:
 
-    Cargar los datos,
-    Limpiar los datos,
-    Realizar análisis estadísticos, y
-    Generar visualizaciones.
+    - Cargar los datos,
+    - Limpiar los datos,
+    - Realizar análisis estadísticos, y
+    - Generar visualizaciones.
 
 Para usar Google Colab, simplemente sube el archivo al entorno y ejecuta las celdas correspondientes.
 
@@ -57,5 +57,4 @@ Los archivos .xlsx se pueden abrir con Microsoft Excel o cualquier otra aplicaci
 
 ### Clonación del Repositorio
 Si deseas obtener una copia local del repositorio, puedes clonarlo usando el siguiente comando en tu terminal:
-
 git clone https://github.com/tu-usuario/tu-repositorio.git
