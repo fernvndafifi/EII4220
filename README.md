@@ -57,4 +57,5 @@ Los archivos .xlsx se pueden abrir con Microsoft Excel o cualquier otra aplicaci
 
 ### Clonación del Repositorio
 Si deseas obtener una copia local del repositorio, puedes clonarlo usando el siguiente comando en tu terminal:
+
 git clone https://github.com/tu-usuario/tu-repositorio.git
