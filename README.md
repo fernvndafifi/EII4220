@@ -1,5 +1,4 @@
-# PROYECTO FINAL (GRUPO 31) - EII4220 
-## Análisis de Tiroteos Fatales en EE.UU.
+# PROYECTO FINAL (GRUPO 31) - EII4220: ANÁLISIS DESCRIPTIVO Y PREDICTIVO SOBRE LOS TIROTEOS FATALES POR POLICÍAS EN ESTADOS UNIDOS
 
 Este repositorio contiene un análisis de los tiroteos fatales ocurridos en Estados Unidos, enfocado en los incidentes involucrando a la policía. El proyecto está compuesto por diferentes archivos que permiten analizar, visualizar y explorar los datos relacionados con estos eventos, con el fin de identificar patrones, tendencias y posibles áreas de mejora en las políticas de seguridad pública.
 
