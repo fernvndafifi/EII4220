@@ -46,7 +46,7 @@ Abre el archivo EII4220_Proyecto.ipynb en un entorno de Jupyter (como Google Col
 
     - Cargar los datos,
     - Limpiar los datos,
-    - Realizar análisis estadísticos, y
+    - Realizar análisis descriptivo y predictivo, y
     - Generar visualizaciones.
 
 3. Para usar Google Colab, simplemente sube el archivo al entorno y ejecuta las celdas correspondientes.
